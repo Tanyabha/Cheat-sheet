@@ -39,3 +39,8 @@ docker stop 7484100afbd2
 -> docker login
 
 ![image](https://user-images.githubusercontent.com/103023305/164106582-e94326a9-cba5-46f3-9ef6-160012e6248e.png)
+
+-> docker restart nginx
+
+![image](https://user-images.githubusercontent.com/103023305/164107819-f45e56e4-0a0d-4afb-915a-308d79155ad1.png)
+
